@@ -10,24 +10,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+## About Jack Trice Digital Collection
 
-## About CollectionBuilder CSV
-
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
-
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
-
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Johnny (Jack) Trice was born in Hiram, Ohio, in 1902. In 1922, Trice became the first African American student athlete at Iowa State, participating in track and football. He majored in animal husbandry with the desire to go to the South and use his knowledge to help black farmers. In the summer after his freshman year, Trice married Cora Mae Starland. They both found jobs to support themselves through school. On October 6, 1923, Jack Trice played in his first college football game against the University of Minnesota in Minneapolis. During the second play of the game, he broke his collarbone. He insisted he was all right and returned to the game. In the third quarter, University of Minnesota players forced Trice to the ground and crushed him. On October 8, he died from internal bleeding due to injuries received during the game. In 1973, Jack Trice's legacy was renewed when supporters began a promotion to name Iowa State's new stadium after him. In 1974, the Iowa State University Government of Student Body unanimously voted to endorse this effort. In addition, the Jack Trice Stadium Committee compiled more than 3,000 signatures of supporters. However, an Iowa State University ad hoc committee voted to advise President Robert Parks to name the stadium Cyclone Stadium. In 1984, the stadium was named Cyclone Stadium and the playing field was named Jack Trice Field. The Government of Student Body, wanting to do more to honor Trice, raised money to erect a statue of Trice in 1987. Due to the persistence of the students, alumni, faculty and staff, and other supporters, the stadium was finally named Jack Trice Stadium in 1997.
