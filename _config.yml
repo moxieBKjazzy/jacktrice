@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # title of site appears in banner
 title: Jack Trice Digital Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: First African-American athlete at Iowa State, participating on track and football.4
+tagline: First African-American athlete at Iowa State, participating in track and football.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "History of the first African-American athlete to compete at Iowa State, leading to the naming of the football stadium."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: iowa;history;football
+keywords: iowa state;history;football
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: moxiebkjazzy
 
